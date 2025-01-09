@@ -44,6 +44,8 @@ This project was part of a DSP course and focuses on designing, implementing, an
    - Comparison of execution times with direct convolution.
 
 ## File Structure
+```
+.
 ├── DSP PART 1.pdf # Results document for Part 1  
 ├── DSP PART 2.pdf # Results document for Part 2
 ├── DSP part1 instructions.docx # Instructions for Part 1 
@@ -58,7 +60,7 @@ This project was part of a DSP course and focuses on designing, implementing, an
 ├── sig_x.mat # Signal for convolution operations 
 ├── LICENSE # License file 
 ├── README.md # Project documentation
-
+```
 ## Getting Started
 ### Prerequisites:
 - MATLAB R2020a or later.
@@ -69,13 +71,13 @@ This project was part of a DSP course and focuses on designing, implementing, an
 1. Clone the repository:
    ```bash
    git clone https://github.com/12danielLL/DSP_Project
-2.Load the required .mat files into MATLAB.
+2.Load the required .mat files into MATLAB
 3.Run the scripts in the following order:
 - `DSP_part1.m`: This script implements FFT and IFFT algorithms. It compares the custom implementation against MATLAB's built-in functions for verification.
 - `DSP_part2.m`: This script contains the design and conversion of filters, as well as signal filtering using convolution and the OVA method.
 
 ```
-
+```
   ## Results and Analysis
 
 - **Custom FFT vs Built-in FFT**: The custom implementation closely matches MATLAB's built-in functions in both time and frequency domains.
