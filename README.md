@@ -99,4 +99,4 @@ This project is licensed under the [MIT License](LICENSE). See the `LICENSE` fil
 - Daniel Brooker
 - Or Shachar
 
--This project was completed as part of the Digital Signal Processing (DSP) course at [Name of Institution].
+-This project was completed as part of the Digital Signal Processing (DSP) course at Bar-Ilan university.
